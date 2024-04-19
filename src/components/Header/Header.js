@@ -30,12 +30,12 @@ const Header = () => {
             >
               Home
             </li>
-            <li
+            {/* <li
               className="text-sm cursor-pointer font-semibold text-[#219653] hover:bg-lime-200 rounded-lg px-2 py-1 ml-6 mr-1.5"
               onClick={() => navigate("/voice")}
             >
               Voice Help
-            </li>
+            </li> */}
             <li
               className="text-sm cursor-pointer font-semibold text-[#219653] hover:bg-lime-200 rounded-lg px-2 py-1 ml-6 mr-1.5"
               onClick={() => navigate("/crop")}
@@ -54,12 +54,12 @@ const Header = () => {
             >
               Disease Prediction
             </li>
-            <li
+            {/* <li
               onClick={() => navigate("/sms")}
               className="text-sm cursor-pointer font-semibold text-[#219653] hover:bg-lime-200 rounded-lg px-2 py-1 ml-6 mr-1.5"
             >
               SMS Service
-            </li>
+            </li> */}
           </ul>
         </div>
       </div>

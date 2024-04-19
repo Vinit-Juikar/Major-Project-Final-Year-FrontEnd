@@ -14,7 +14,7 @@ const PreHeader = () => {
             alt=""
           />
           <p className="font-semibold text-white text-xs sm:text-sm ml-1">
-            Ministry of agriculture and farmer's welfare
+          Empowering Agriculture, Nurturing Farmers
           </p>
         </div>
         <div className="">
