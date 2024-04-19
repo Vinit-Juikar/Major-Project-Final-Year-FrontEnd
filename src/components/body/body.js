@@ -3,6 +3,7 @@ import "./body.css";
 import FeatureImg from "../img/feature.jpeg";
 import CardBar from "../CardBar/CardBar";
 import HelpCard from "../HelpCard/HelpCard";
+import { TypeAnimation } from "react-type-animation";
 
 const Body = () => {
   return (
@@ -12,10 +13,22 @@ const Body = () => {
           <p className="text-2xl  font-bold text-center text-white uppercase mb-4">
             Farmers' Help Center
           </p>
-          <p className="text-6xl font-medium text-center text-green-600 max-w-md mb-4">
-            KRASHAK.AI
-          </p>
-          <p className="text-2xl font-bold text-center text-white">
+          <TypeAnimation className="text-6xl font-medium text-center text-green-600 max-w-md mb-4 mb-4"
+            preRenderFirstString={true}
+            sequence={[
+              500,
+              'Krushi-Connect', // initially rendered starting point
+              1000,
+              '  कृषि कनेक्ट...',
+              1000
+
+            ]}
+            speed={50}
+            style={{ fontSize: '3em' }}
+            repeat={Infinity}
+          />
+
+          <p className="text-2xl font-bold text-center text-white mt-2">
             #WeAreFarmers'Voice
           </p>
         </div>

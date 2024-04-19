@@ -120,6 +120,7 @@ const Fertilizer = () => {
                   onChange={(e) => setSoilType(e.target.value)}
                   className="border-2 border-green-600 p-2 rounded-sm w-64"
                 >
+                  <option value="None">------</option>
                   <option value="Clay">Clayey</option>
                   <option value="Sandy">Sandy</option>
                   <option value="Loamy">Loamy</option>
@@ -136,6 +137,7 @@ const Fertilizer = () => {
                   onChange={(e) => setCropType(e.target.value)}
                   className="border-2 border-green-600 p-2 rounded-sm w-64"
                 >
+                  <option value="None">------</option>
                   <option value="Wheat">Wheat</option>
                   <option value="Maize">Maize</option>
                   <option value="Sugarcane">Sugarcane</option>
