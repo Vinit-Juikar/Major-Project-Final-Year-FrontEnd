@@ -1,14 +1,6 @@
-# Krashak.AI
-![Hackathon (2)](https://user-images.githubusercontent.com/55245862/207863094-f5fc2d07-5584-45d7-be02-3695dd90c71b.png)
-
-> Problem Statement (AGRI12)
-
-
+# Krushi-Connect
 AI-based voice-assisted Contact Center for assisting Farmers for their problems. Farmers can log their problems with the contact center thru phone calls / SMS / website and in return an automated voice response can be provided to the farmers with a most appropriate solution for their problems.
 
-# UNESCO India - Africa Hackathon
-
-<p align="center"><img src="https://user-images.githubusercontent.com/55245862/205508044-e43024b4-3c92-4ab9-9f6b-e3c6038205a6.jpg" height="200" width="300"></p>
 
 ## Features
 
@@ -48,7 +40,7 @@ AI-based voice-assisted Contact Center for assisting Farmers for their problems.
 
 - Fork and Clone the repo using
 ```
-$ git clone https://github.com/rudrakshi99/Farmer-Call-Center.git
+$ git clone https://github.com/Vinit-Juikar/Major-Project-Final-Year-FrontEnd.git
 ```
 - Install the Dependencies from `npm`
 ```
@@ -59,34 +51,6 @@ $ npm i
 $ npm start
 ```
 
-## Team Members:
-
-| S.No. | Name | Role | GitHub Username:octocat: |
-| --------------- | --------------- | --------------- | --------------- |
-| 1. | Rudrakshi (Team Leader) | Frontend Development| [@rudrakshi99](https://github.com/rudrakshi99)  |
-| 2. | Frank Makeba | Frontend Development | [@CutCoders](https://github.com/CutCoders) |
-| 3. | Tony Onkgopotse Richard | Backend Development | [@Onkgopotse007](https://github.com/Onkgopotse007) |
-| 4. | Pedro Anda Ondo Nchama | Backend Development| [@paondonchama](https://github.com/paondonchama)  |
-| 5. | Faremi Saheed | ML Engineer | [@faremi](https://github.com/faremi)  |
-| 6. | Ayushi Saxena | Product Designer | [@ayushisaxena19](https://github.com/ayushisaxena19)  |
-
-## Maintainers✨
-
-<table>
-  <tbody><tr>
-    <td align="center"><a href="https://github.com/rudrakshi99"><img alt="" src="https://avatars.githubusercontent.com/rudrakshi99" width="100px;"><br><sub><b>Rudrakshi</b></sub></a><br><a href="https://github.com/rudrakshi99/Farmer-Call-Center/commits/master?author=rudrakshi99" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/faremi"><img alt="" src="https://avatars.githubusercontent.com/faremi" width="100px;"><br><sub><b>Faremi Saheed </b></sub></a><br><a href="https://github.com/rudrakshi99/Farmer-Call-Center/commits/backend?author=faremi" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/paondonchama"><img alt="" src="https://avatars.githubusercontent.com/paondonchama" width="100px;"><br><sub><b>Pedro Anda Ondo Nchama </b></sub></a><br><a href="https://github.com/rudrakshi99/Farmer-Call-Center/commits/backend?author=paondonchama" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Onkgopotse007"><img alt="" src="https://avatars.githubusercontent.com/Onkgopotse007" width="100px;"><br><sub><b>Tony Onkgopotse Richard </b></sub></a><br><a href="https://github.com/rudrakshi99/Farmer-Call-Center/commits/call_api?author=Onkgopotse007" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/ayushisaxena19"><img alt="" src="https://avatars.githubusercontent.com/ayushisaxena19" width="100px;"><br><sub><b>Ayushi Saxena  </b></sub></a><br><a href="https://github.com/rudrakshi99/Farmer-Call-Center" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/CutCoders"><img alt="" src="https://avatars.githubusercontent.com/CutCoders" width="100px;"><br><sub><b>Frank Makeba </b></sub></a><br><a href="https://github.com/rudrakshi99/Farmer-Call-Center/commits/master?author=CutCoders" title="Code">💻</a></td>
-  </tr>
-</tbody></table>
-
-
-# License :memo:
-
-This project follows the [MIT License](https://choosealicense.com/licenses/mit/).
 
 [![Uses Git](https://forthebadge.com/images/badges/uses-git.svg)](https://github.com/rudrakshi99/Farmer-Call-Center) 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://github.com/rudrakshi99/Farmer-Call-Center)
